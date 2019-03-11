@@ -1,0 +1,19 @@
+.CreateEmail{
+
+}
+.CreateEmailTo{
+    width: 80%;
+    float: right;
+}
+.CreateEmailSubject{
+    width: 80%;
+    float: right;
+}
+.CreateEmailText{
+    width: 80%;
+    height: 100%;
+    float: right;
+}
+.CreateEmailButtons{
+    
+}
